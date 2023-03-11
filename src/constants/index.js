@@ -52,11 +52,7 @@ const services = [
   {
     title: "Backend Developer",
     icon: backend,
-  },
-  {
-    title: "Designer",
-    icon: figma,
-  },
+  }
 ];
 
 const technologies = [

@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a student software developer with experience in Front and Back end, and expertise in frameworks like React, Node.js, and
+        I'm a student software developer with experience Full-Stack Development and Machine Learning, and expertise in frameworks like React, Node.js, and
         Three.js. I'm a quick learner and love to build projects that solve real world problems.
       </motion.p>
 
