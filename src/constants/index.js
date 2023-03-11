@@ -54,8 +54,8 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
-    icon: creator,
+    title: "Designer",
+    icon: figma,
   },
 ];
 
@@ -116,8 +116,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Computer Science Teacher",
+    company_name: "Crews Middle School",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
