@@ -112,29 +112,30 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Computer Science Teacher",
+    title: "Computer Science Club President",
     company_name: "Crews Middle School",
-    icon: starbucks,
+    icon: web,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "August 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Created lesson and project plans for the students that come to the weekly meetings",
+      "Taught new students of the club on how to code in Python",
+      "Assigned projects to students and assisted in the organization of the groups",
+      "Assisted the students with troubleshooting their code in Python and Java ",
+      "Worked with management at Crews Middle School in order to organize meetings with the students"
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Robotics Club Coder",
+    company_name: "FTC RED 16796",
+    icon: web,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "August 2020 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Assisted 3 new members of the team to learn about Robotics Club",
+      "Empowered the new members to help out in building the robot as well as communicating with them knowledge of how competitions work",
+      "Exhibited multiple original designs to team members which were used in the final design",
+      "Won multiple awards and went to state level competitions both years",
     ],
   },
   {
@@ -149,20 +150,7 @@ const experiences = [
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  }
 ];
 
 const testimonials = [
